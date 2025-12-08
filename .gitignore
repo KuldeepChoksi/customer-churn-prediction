@@ -54,3 +54,5 @@ results/
 # OS
 .DS_Store
 Thumbs.db!results/**/.gitkeep
+!results/eda/*.png
+!results/models/*.png
